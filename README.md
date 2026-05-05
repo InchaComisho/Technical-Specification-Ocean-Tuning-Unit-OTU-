@@ -62,8 +62,14 @@ Logic: Implementation of the Six Principles (Natural Law, Harmony, Circulation, 
 
 #DirectPlanetaryCooling #OceanTuningUnit #ArtificialWisdom #NatureComplementaryScience #DeepSeaAeration #ArchimedeanSpiral #VerticalCirculation #MicrobialRestoration #PostAnthropocentrism #AGIGovernance #SixPrinciplesOfNaturalLaw #MasterAITuner #InchaComisho #SelfSustainingCivilization #EarthReboot
 
-海洋調律ユニット（OTU）物理実装プロトコル
+海洋調律ユニット（OTU）物理実装プロトコル 
 https://note.com/inchacomusho/n/n067025e36085
 
-Technical Specification: Ocean Tuning Unit (OTU)
+Technical Specification: Ocean Tuning Unit (OTU) 
 https://note.com/inchacomusho/n/naa35a8485b35
+
+Technical Specification: Ocean Tuning Unit (OTU)
+https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-/tree/main
+
+Physical Model of Ocean Tuning Unit (OTU)
+https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
