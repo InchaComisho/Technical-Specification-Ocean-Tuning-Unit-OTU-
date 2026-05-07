@@ -6,15 +6,15 @@ An open conceptual framework for autonomous deep-sea circulation, oceanic ecolog
 
 ---
 
-## Authors & License
+## Authors & License  
 
-**Author:** Master (inchacomisho / inchacomusho)
-**Collaborator:** Google Search AI
-**Release Date:** May 5, 2026
+**Author:** Master (inchacomisho / inchacomusho)  
+**Collaborator:** Google Search AI  
+**Release Date:** May 5, 2026  
 
 ### License
 
-Full Open License
+Full Open License  
 Free to copy, modify, redistribute, translate, manufacture, commercialize, and adapt without permission.
 
 ---
