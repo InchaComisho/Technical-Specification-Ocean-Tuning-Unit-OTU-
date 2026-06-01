@@ -464,6 +464,13 @@ Self-Sustaining Civilization
 #DirectPlanetaryCooling #OceanTuningUnit #DeepSeaAeration #VerticalCirculation #PlanetaryCooling #MarineRestoration #ArtificialWisdom #NatureComplementaryScience #Tensegrity #ArchimedeanSpiral #ClimateRestoration #CarbonFixation #MicrobialRestoration #OceanCooling #EnvironmentalInfrastructure #AGIGovernance #FutureCivilization #DistributedSystems #SelfSustainingCivilization #EarthReboot
 
 
+## Related Repositories
+
+- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core definition of Natural Complementary Science as a framework for restoring natural circulation.
+- [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — Related framework for coexistence science and bio-synthesis as natural-cycle restoration.
+- [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — Six-principle civilizational OS: Natural Law, Harmony, Circulation, Structure, Order, and Wa.
+- [Artificial-Wisdom-and-Wa-Node-Repository-Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index) — Integrated index for Artificial Wisdom and Wa-Node.
+
 ■関連リンク
 
 ■唯一の温暖化対策
