@@ -1,5 +1,7 @@
 # 技術仕様：Ocean Tuning Unit（OTU）
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 自律型鉛直循環・直接惑星冷却システム
 
 > English version: [README.md](./README.md)

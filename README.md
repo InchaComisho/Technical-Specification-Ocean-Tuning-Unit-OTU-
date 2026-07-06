@@ -1,5 +1,7 @@
 # Technical Specification: Ocean Tuning Unit (OTU)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Autonomous Vertical Circulation & Direct Planetary Cooling System
 
 An open conceptual framework for autonomous deep-sea circulation, oceanic ecological restoration, and distributed planetary cooling infrastructure.
