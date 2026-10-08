@@ -223,13 +223,6 @@ OTUは、空想的な物理に基づくものではありません。
 - 再生可能エネルギー駆動の環境システム
 - 惑星循環アーキテクチャ
 
-## 関連文書
-
-### 日本語NOTE記事
-
-- [Ocean Tuning Unit (OTU) Physical Implementation Protocol](https://note.com/inchacomusho/n/n067025e36085)
-- [Technical Specification: Ocean Tuning Unit (OTU)](https://note.com/inchacomusho/n/naa35a8485b35)
-
 ### GitHubリポジトリ
 
 - [Technical Specification: Ocean Tuning Unit (OTU)](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-)
